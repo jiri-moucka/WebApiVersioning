@@ -1,0 +1,8 @@
+@Basic_NoVersioning_HostAddress = http://localhost:5129
+
+GET {{Basic_NoVersioning_HostAddress}}/ReadCompanyInfo/
+Accept: application/json
+###
+
+
+

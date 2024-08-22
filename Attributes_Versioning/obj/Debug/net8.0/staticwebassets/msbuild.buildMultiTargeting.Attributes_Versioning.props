@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Attributes_Versioning.props" />
+</Project>

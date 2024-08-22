@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1031257a_002D04b8_002D48e1_002Db472_002D36e48ab6fdcc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SetCompanyNameReturnsOkResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A2C7AF4E-F443-4628-B772-B8A9E5ED952D::net8.0::UnitTests20240100.Company.ReadCompanyInfoTests.ReturnsOkResultWithValidCompanyInfo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=941f0351_002D09cd_002D44c0_002D9df0_002Da81cbcf34c46_0023WebApiVersioning/@EntryIndexedValue">True</s:Boolean>
+	</wpf:ResourceDictionary>
