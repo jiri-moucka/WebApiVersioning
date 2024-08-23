@@ -13,6 +13,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{9255A8B7-0E0A-4E0E-9A1D-6F1B12C87A01}"
 	ProjectSection(SolutionItems) = preProject
 		Documentation\Notes.md = Documentation\Notes.md
+		Documentation\NotesEN = Documentation\NotesEN
+		Documentation\NotesCZ.md = Documentation\NotesCZ.md
+		Documentation\NotesEN.md = Documentation\NotesEN.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NamespaceRoutingConvention_versioning", "NamespaceRoutingConvention_versioning", "{CC5C76C2-4FE3-4DC9-9872-B2744224C62E}"
