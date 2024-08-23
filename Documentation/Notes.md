@@ -21,6 +21,7 @@ Obsah:
 # Git
 ## GitVersion
  - verzovací nástroj pro definici **Major - Minor - Patch**
+   - doplnit vysvětlení kdy použít změnu Major nebo Minor nebo Patch
  - příklad z DockerHub image: https://hub.docker.com/_/nginx  -> [prtscr](TagsInDockerImageNginx.jpg)
 
 ## Gitflow-workflow versus TrunkBase
@@ -121,3 +122,5 @@ Jeden segment v url je vyhrazen pro definici verze.
 **Pozor:** pokud budu verzovat pouze změnované části kontrolerů, mohu vnést chaos do celého verzování.
 
 dokumentace: ohláška autora: https://github.com/dotnet/aspnet-api-versioning/discussions/807
+
+# Doporučení  - Best practise

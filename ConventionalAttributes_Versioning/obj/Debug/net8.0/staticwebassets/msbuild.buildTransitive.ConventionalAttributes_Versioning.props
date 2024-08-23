@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ConventionalAttributes_Versioning.props" />
-</Project>

@@ -13,8 +13,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{9255A8B7-0E0A-4E0E-9A1D-6F1B12C87A01}"
 	ProjectSection(SolutionItems) = preProject
 		Documentation\Notes.md = Documentation\Notes.md
-		Documentation\TagsInDockerImageNginx.jpg = Documentation\TagsInDockerImageNginx.jpg
-		Documentation\Rename projekt.png = Documentation\Rename projekt.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NamespaceRoutingConvention_versioning", "NamespaceRoutingConvention_versioning", "{CC5C76C2-4FE3-4DC9-9872-B2744224C62E}"
@@ -46,6 +44,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests20240200", "NamespaceRoutingConvention_versioning\Versions\2024\0200\UnitTests20240200\UnitTests20240200.csproj", "{1A2B881F-265B-482E-95CF-BD6A64AC5D63}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "attachments", "attachments", "{5E1A0564-595D-4992-9B8B-266BB0B9A879}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Rename projekt.png = Documentation\Rename projekt.png
+		Documentation\TagsInDockerImageNginx.jpg = Documentation\TagsInDockerImageNginx.jpg
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConventionalAttributes_Versioning", "ConventionalAttributes_Versioning\ConventionalAttributes_Versioning.csproj", "{E27A2B12-823B-4703-B3E9-8A33EE350AD5}"
 EndProject
